@@ -2,3 +2,5 @@
 *.orig
 *.patch
 *.rej
+BoardConfig.mk.GAPPS
+lineage_chime.mk.GAPPS
