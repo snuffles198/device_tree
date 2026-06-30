@@ -39,6 +39,8 @@ persist.dbg.wfc_avail_ovr=1
 # LMKD
 ro.config.low_ram=false
 ro.lmk.log_stats=true
+ro.lmk.use_cgroup_v2=true
+ro.lmk.use_psi=true
 
 # Media
 debug.stagefright.ccodec=1
