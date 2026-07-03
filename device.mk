@@ -17,8 +17,8 @@ $(call inherit-product, vendor/xiaomi/chime/chime-vendor.mk)
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH) \
-    hardware/google/interfaces \
-    hardware/google/pixel \
+    hardware/google/pixel/pixelstats \
+    hardware/google/pixel/power-libperfmgr \
     hardware/lineage/interfaces/power-libperfmgr \
     hardware/qcom-caf/common/libqti-perfd-client \
     hardware/xiaomi
@@ -346,6 +346,7 @@ PRODUCT_BUILD_SUPER_PARTITION := false
 # Perf
 PRODUCT_PACKAGES += \
     libqti-perfd-client \
+    libperfmgr \
     android.hardware.power-service.lineage-libperfmgr
 
 PRODUCT_COPY_FILES += \
