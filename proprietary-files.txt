@@ -742,6 +742,9 @@ vendor/lib64/nfc_nci.st21nfc.st.so
 vendor/firmware/st21nfc_fw.bin
 vendor/firmware/st21nfc_fw7.bin
 
+# Powerhint - prebuilt from lineage-23.2
+vendor/lib64/pixel-power-ext-V1-ndk.so
+
 # Peripheral manager
 vendor/bin/pm-proxy
 vendor/bin/pm-service
