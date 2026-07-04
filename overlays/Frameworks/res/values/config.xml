@@ -910,7 +910,7 @@
  
     <!-- The duration (in milliseconds) that should be 
          applied to waveform vibrations that ends in non-zero amplitudes, to bring the vibrator amplitude down to zero using this timing. -->
-    <integer name="config_vibrationWaveformRampDownDuration">25</integer>
+    <!-- <integer name="config_vibrationWaveformRampDownDuration">25</integer> -->
 
     <!-- Whether the display cutout region of the main built-in display should be forced to
          black in software (to avoid aliasing or emulate a cutout that is not physically existent). -->
