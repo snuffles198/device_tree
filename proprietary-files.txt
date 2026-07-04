@@ -1490,3 +1490,5 @@ vendor/lib64/camera/com.qti.tuned.citrus_sunny_s5kgm1sp_main.bin
 vendor/lib64/camera/com.qti.tuned.citrus_sunny_s5kgm1sp_main_india.bin
 vendor/lib64/camera/com.qti.tuned.citrus_sunny_s5kgm1st_main.bin
 vendor/lib64/camera/com.qti.tuned.citrus_sunny_s5kgm1st_main_india.bin
+
+vendor/lib64/pixel-power-ext-V1-ndk.so
